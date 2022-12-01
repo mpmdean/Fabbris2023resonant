@@ -1,9 +1,10 @@
-# La4Ni3O10 Ni L3 edge RIXS
-# Room temperature
-# RIXS resolution ~ 0.4 eV
-# Horizontal scattering geometry, theta = 15 degrees, 2theta = 95 degrees
-# SEXTANTS beamline, SOLEIL synchrotron
-# Energy loss 	 Intensity
+# Energy = 870.645 eV
+# Shifts applied 
+# ../Processed/scan_506_1.txt	 0.0 
+# ../Processed/scan_506_2.txt	 -0.1 
+# ../Processed/scan_506_3.txt	 -0.3 
+# ../Processed/scan_506_4.txt	 -0.2 
+
 -48.034631      -136.3
 -47.955075       293.9
 -47.875544       818.8
