@@ -1,7 +1,7 @@
 ==========================================================
 Data Repository
 ==========================================================
-Data files for resonant inelastic x-ray scattering and x-ray absorption measurements of La4Ni3O10.
+Data files for resonant inelastic x-ray scattering and x-ray absorption measurements of La4Ni3O10 and La4Ni3O8.
 
 Run locally
 -----------
