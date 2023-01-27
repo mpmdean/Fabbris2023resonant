@@ -17,4 +17,4 @@ Run remotely
 ------------
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/mpmdean/Fabbris2023resonant/HEAD?filepath=plots.ipynb
+ :target: https://mybinder.org/v2/gh/mpmdean/Fabbris2023resonant/HEAD
